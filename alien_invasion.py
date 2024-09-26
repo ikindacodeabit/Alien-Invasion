@@ -1,6 +1,7 @@
 import pygame
 from pygame.sprite import Group
 
+from random import choice
 from settings import Settings
 from game_stats import GameStats
 from scoreboard import Scoreboard
